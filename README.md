@@ -18,7 +18,7 @@ This project demonstrates how to implement a simple softmax regression (multicla
 
 2. **Install dependencies**:
    ```bash
-   pip install numpy tensorflow scikit-learn
+   pip install numpy tensorflow scikit-learn matplotlib
    ```
 
 
